@@ -25,6 +25,7 @@ local WhitelistedUserIds = {
     7505357425,
     7166614582,
     9287374784,
+    4023439122,
 }
 
 local WhitelistedNames = {
@@ -35,6 +36,7 @@ local WhitelistedNames = {
     "Frauheinrich0",
     "enzo_24042",
     "piti3235",
+    "Diart2Acc",
 }
 
 local function isWhitelisted(plr)
